@@ -2,15 +2,6 @@
 
 Welcome to my React and Node tutorial to build a fully-functional e-commerce website in 5 hours. Open your code editor and follow me for the next hours to build an e-commerce website using React and Node.JS.
 
-## Demo Website
-
-👉 Demo : https://oldamazona.webacademy.pro
-
-## Video Tutorial
-
-👉 Click on this image to watch full 5-hours video of this tutorial
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Fy9SdZLBTOo/0.jpg)](https://www.youtube.com/watch?v=Fy9SdZLBTOo)
 
 ## You Will Learn
 
@@ -67,16 +58,6 @@ $ npm start
 - Run http://localhost:3000/products
 - Click create product and enter product info
 
-## Support
-
-- Q/A: https://webacademy.pro/oldamazona
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
-
-## Video Tutorials
-
-### [00:02:00 Part 01- Introduction](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=120s)
-
-It gives you an overview of the tutorial to build an eCommerce website like Amazon.
 
 ### [00:08:26 Part 02- Install Tools](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=506s)
 
