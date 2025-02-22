@@ -1,4 +1,4 @@
-# React & Node Tutorial - Full ECommerce in 5 Hours [2020]
+# React & Node Tutorial - Full ECommerce in 5 Hours
 
 Welcome to my React and Node tutorial to build a fully-functional e-commerce website in 5 hours. Open your code editor and follow me for the next hours to build an e-commerce website using React and Node.JS.
 
@@ -16,25 +16,18 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 
 ## Run Locally
 
-### 1. Clone repo
-
-```
-$ git clone git@github.com:basir/node-react-ecommerce.git
-$ cd node-react-ecommerce
-```
-
-### 2. Install MongoDB
+### 1. Install MongoDB
 
 Download it from here: https://docs.mongodb.com/manual/administration/install-community/
 
-### 3. Run Backend
+### 2. Run Backend
 
 ```
 $ npm install
 $ npm start
 ```
 
-### 4. Run Frontend
+### 3. Run Frontend
 
 ```
 # open new terminal
@@ -43,17 +36,17 @@ $ npm install
 $ npm start
 ```
 
-### 5. Create Admin User
+### 4. Create Admin User
 
 - Run this on chrome: http://localhost:5000/api/users/createadmin
 - It returns admin email and password
 
-### 6. Login
+### 5. Login
 
 - Run http://localhost:3000/signin
 - Enter admin email and password and click signin
 
-### 7. Create Products
+### 6. Create Products
 
 - Run http://localhost:3000/products
 - Click create product and enter product info
@@ -131,9 +124,7 @@ Admin should be able to define products and update the count in stock whenever t
 In this part, we implement the checkout wizard including sign in, shipping info, payment method, and place order.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/l8w3g9mc3ccijt70wpf3.png)
 
-## Only On Udemy
 
-Following parts are on my udemy course. [Get it by 90% discount](https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/?couponCode=BASIR1)
 
 ### Part 18- Order Details Screen
 
